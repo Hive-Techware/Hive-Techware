@@ -83,27 +83,17 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'config.wsgi.application'
-# Heroku Database
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dbv8v2dnik2138',
-        'USER': 'vclgvizjgfqlzi',
-        'PORT': 5432,
-        'HOST': 'ec2-18-233-83-165.compute-1.amazonaws.com',
-        'PASSWORD': '073f72c2a8dfe29fe2167d94c6be6df60f7e2a393dd8e16ca4f2434ee1686e36',
-    }
-}
+
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
 
 
 # Password validation
@@ -131,6 +121,7 @@ cloudinary.config(
     api_secret="WGcWrWfkPlxdOCdlFaLTdjSNtfo",
     secure=True
 )
+
 
 
 # Internationalization
