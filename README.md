@@ -1,5 +1,4 @@
-# Forum App in React & Redux + Django
-
+Hive Techware
 ```
 Forum App, with a frontend built in React & Redux and a backend built in Django API.
 ```
