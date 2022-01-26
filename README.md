@@ -1,6 +1,6 @@
-Hive Techware
+## Hive Techware
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Hive Techware project build with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone git@github.com:https://github.com/Hive-Techware/Hive-Techware
 ```
 
 2. Backend setting
