@@ -7,9 +7,7 @@ Hive Techware project build with a frontend built in React & Redux and a backend
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://hive-techware-frontend.herokuapp.com/) here!!
-
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://hivetechwear.jmatechis.repl.co/) here!!
 
 ## Tech used
 ![image](https://user-images.githubusercontent.com/97461302/149033146-2401106e-7c68-400d-a63a-81ee15952363.png)
